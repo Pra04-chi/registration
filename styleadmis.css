@@ -1,0 +1,62 @@
+body,html{
+    height: 100px;
+}
+*{
+    box-sizing: border-box;
+}
+.bg{
+    background-image: url("organized-desk-with-copy-space.jpg");
+    min-height: 380px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.text{
+    color: navy;
+    font-size: 30px;
+    display: flex;
+    margin-left: 180px;
+    
+}
+.txt{
+    color: red;
+    font-size: 30px;
+}
+.main{
+
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    padding-top: 2px;
+    
+}
+.link{
+    background-size: 20px;
+    font-size: 20px;
+    float: right;
+    padding: 1px;
+}
+nav{
+    display: inline-block;
+}
+body{
+padding: 50px;
+}
+
+
+.container{
+width: 600px;
+margin:0 auto;
+box-shadow: rgba(100, 100,111, 0.2)0px 7px 29px 0px;
+}
+.form-group{
+margin-bottom: 30px;
+}.heading{
+    text-align: center;
+    border: 2px black solid;
+    font-size: 20px;
+    margin: auto;
+    padding: 10px;
+    background-color: aliceblue;
+}

@@ -1,0 +1,33 @@
+body{
+    background-image: url("timt.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.text{
+    color: navy;
+    font-size: 30px;
+    display: flex;
+    margin-left: 180px;
+    
+}
+.txt{
+    color: red;
+    font-size: 30px;
+}
+.main{
+
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    
+}
+.link{
+    background-size: 20px;
+    font-size: 20px;
+    float: right;
+}
+nav{
+    display:inline-block;
+}

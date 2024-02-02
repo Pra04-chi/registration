@@ -1,0 +1,46 @@
+.text{
+    color: navy;
+    font-size: 30px;
+    display: flex;
+    margin-left: 180px;
+    
+}
+.txt{
+    color: red;
+    font-size: 30px;
+}
+.main{
+
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    
+}
+.link{
+    background-size: 20px;
+    font-size: 20px;
+    float: right;
+}
+nav{
+    display: inline-block;
+}
+body{
+    background-color: bisque;
+}
+.head{
+    font-size: 30px;
+    color: navy;
+    padding-left: 20px;
+}
+.google-map{
+    padding-bottom: 50px;
+    position: relative;
+
+}
+.google-map iframe{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    padding-left: 75px;
+    
+}
